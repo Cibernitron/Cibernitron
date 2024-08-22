@@ -1,7 +1,8 @@
 # 👋 Hi, I’m Jason
-🏠 I live in Caen, France.
-🎓 I learnt web and application development at Creative Formation.
-💜 I like music, games and guitar.
+
+<p>🏠 I live in Caen, France.</p>
+<p>🎓 I learnt web and application development at Creative Formation.</p>
+<p>💜 I like music, games and guitar.</p>
 
 ## 🔧 Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
